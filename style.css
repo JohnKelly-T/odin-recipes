@@ -2,13 +2,21 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+h1, h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500;
     color: rgb(84, 83, 83);
     font-size: 40px;
 }
 
+h2 {
+    font-size: 24px;
+}
+
 .ingredient-list li {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.steps li {
+    background-color: rgb(247, 247, 247);
 }
