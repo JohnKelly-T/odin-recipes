@@ -20,3 +20,18 @@ h2 {
 .steps li {
     background-color: rgb(247, 247, 247);
 }
+
+.homepage-card {
+    background-color: rgb(227, 223, 214);
+    padding: 24px;
+    width: 400px;
+    margin: 48px auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.homepage-card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
